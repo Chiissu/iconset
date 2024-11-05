@@ -7,7 +7,7 @@
    viewBox="0 0 195 100"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="bunjs.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.39892984"
-     inkscape:cx="443.68704"
-     inkscape:cy="-241.89717"
+     inkscape:zoom="0.4848065"
+     inkscape:cx="212.4559"
+     inkscape:cy="248.55278"
      inkscape:window-width="1280"
      inkscape:window-height="776"
      inkscape:window-x="0"
@@ -55,7 +55,7 @@
        sodipodi:nodetypes="ccccccczccc" />
     <path
        style="fill:#f472b6;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:round"
-       d="m 103.85695,8.4610057 2.51603,28.1554323 19.32935,-12.77975 0.65917,54.095986 -9.10587,-4.274316 c 0,0 -3.0777,13.92047 3.75851,17.199948 6.8362,3.279479 24.22678,-0.377231 24.22678,-0.377231 l -7.68737,-67.832521 10.16393,4.552792 V 7.8419862 Z"
+       d="m 102.87299,8.4610057 2.76202,31.8452713 20.06732,-16.469589 0.65917,54.095986 -9.10587,-4.274316 c 0,0 -3.0777,13.92047 3.75851,17.199948 6.8362,3.279479 24.22678,-0.377231 24.22678,-0.377231 l -7.68737,-67.832521 10.16393,4.552792 V 7.8419862 Z"
        id="path4"
        sodipodi:nodetypes="ccccczccccc" />
     <path
